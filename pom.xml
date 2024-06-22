@@ -12,6 +12,7 @@
     <groupId>org.bns</groupId>
     <artifactId>ExpenseTracker</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>expense-tracker</name>
     <description>Spring Boot application to track our expenses.</description>
 
